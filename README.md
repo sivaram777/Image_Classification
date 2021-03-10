@@ -2,17 +2,11 @@
 
 In this data science and machine learning project, We restrict classification to only 6 people,
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
-Elon Musk
+   1.Maria Sharapova
+   2.Serena Williams
+   3.Virat Kohli
+   4.Roger Federer
+   5.Lionel Messi
+   6.Elon Musk
 
-Technologies used in this project,
 
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
