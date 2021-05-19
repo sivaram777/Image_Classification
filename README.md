@@ -14,6 +14,6 @@ Technologies we used in this project,
    2.Numpy and OpenCV for data cleaning
    3.Matplotlib & Seaborn for data visualization
    4.Sklearn for model building
-   5.Jupyter notebook, visual studio code and pycharm as IDE
+   5.Jupyter notebook
 
 
